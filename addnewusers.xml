@@ -1,0 +1,256 @@
+<JiraJelly xmlns:jira="jelly:com.atlassian.jira.jelly.JiraTagLib">
+<jira:CreateUser username="crodriguez" password="crodriguez" confirm="crodriguez" fullname="Carolina Rodriguez" email="crodriguez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="evergara" password="evergara" confirm="evergara" fullname="Emerson Vergara" email="evergara@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="larteaga" password="larteaga" confirm="larteaga" fullname="Luisana Arteaga" email="larteaga@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="cchacon" password="cchacon" confirm="cchacon" fullname="Carlos Chacon" email="cchacon@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="lcgarcia" password="lcgarcia" confirm="lcgarcia" fullname="Luz carolina garcia" email="lcgarcia@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="arivero" password="arivero" confirm="arivero" fullname="Alicia Rivero" email="arivero@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="lomaña" password="lomaña" confirm="lomaña" fullname="Lisaris Omaña" email="lomaña@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="yruiz" password="yruiz" confirm="yruiz" fullname="Yelitza Ruiz" email="yruiz@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="fsoares" password="fsoares" confirm="fsoares" fullname="Fatima Soares" email="fsoares@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="ncastro" password="ncastro" confirm="ncastro" fullname="Navarina Castro" email="ncastro@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="lfeijoo" password="lfeijoo" confirm="lfeijoo" fullname="Luisa Feijoo" email="lfeijoo@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="egil" password="egil" confirm="egil" fullname="Elena Gil" email="egil@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="Anieto" password="Anieto" confirm="Anieto" fullname="Alis Nieto" email="Anieto@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="irodriguez" password="irodriguez" confirm="irodriguez" fullname="Isabel Rodriguez" email="irodriguez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="cparra" password="cparra" confirm="cparra" fullname="Carlos Parra" email="cparra@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="vpinzon" password="vpinzon" confirm="vpinzon" fullname="Vanessa Pinzón" email="vpinzon@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="ppena" password="ppena" confirm="ppena" fullname="Pedro Peña" email="ppena@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios""/>
+<jira:CreateUser username="ymeza" password="ymeza" confirm="ymeza" fullname="Yusmil Meza" email="ymeza@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="amfernandez" password="amfernandez" confirm="amfernandez" fullname="Ana María Fernández" email="amfernandez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="emontiel" password="emontiel" confirm="emontiel" fullname="EriKa Montiel" email="emontiel@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="lmorales" password="lmorales" confirm="lmorales" fullname="Lucidio Morales" email="lmorales@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="csilva" password="csilva" confirm="csilva" fullname="Cenaida Silva" email="csilva@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPHR_Usuarios"/>
+<jira:CreateUser username="mvaldes" password="mvaldes" confirm="mvaldes" fullname="Maria Cristina Valdes" email="mvaldes@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="mjardin" password="mjardin" confirm="mjardin" fullname="Maximiliano Jardin" email="mjardin@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="tmarcano" password="tmarcano" confirm="tmarcano" fullname="Tulio Marcano" email="tmarcano@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="iurbaneja" password="iurbaneja" confirm="iurbaneja" fullname="Isabel Urbaneja" email="iurbaneja@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="pventura" password="pventura" confirm="pventura" fullname="Pilar Ventura" email="pventura@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="jtejada" password="jtejada" confirm="jtejada" fullname="Jonathan Tejada" email="jtejada@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="gbejarano" password="gbejarano" confirm="gbejarano" fullname="Gabriel Bejarano" email="gbejarano@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="emorffi" password="emorffi" confirm="emorffi" fullname="Almacen Produccion" email="emorffi@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="jliendo" password="jliendo" confirm="jliendo" fullname="Almacen Proveeduria" email="jliendo@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="ctelleria" password="ctelleria" confirm="ctelleria" fullname="Almacen Guatire" email="ctelleria@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="almacenydespacho" password="almacenydespacho" confirm="almacenydespacho" fullname="Almacen y Despacho" email="almacenydespacho@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="jdiaz" password="jdiaz" confirm="jdiaz" fullname="Jose Diaz" email="jdiaz@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="mgalindo" password="mgalindo" confirm="mgalindo" fullname="Miguel Galindo" email="mgalindo@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="aamaral" password="aamaral" confirm="aamaral" fullname="Anabel Amaral" email="aamaral@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="lbach" password="lbach" confirm="lbach" fullname="Liliana Bach" email="lbach@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="Gmayorga" password="Gmayorga" confirm="Gmayorga" fullname="Gloria Mayorga" email="Gmayorga@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="Kmartinez" password="Kmartinez" confirm="Kmartinez" fullname="Katiuska Martinez" email="Kmartinez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="Nfernandez " password="Nfernandez " confirm="Nfernandez " fullname="Norka Fernandez " email="Nfernandez @eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="Dgonzález" password="Dgonzález" confirm="Dgonzález" fullname="Dianis González" email="Dgonzález@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="htorres" password="htorres" confirm="htorres" fullname="harrison Torres" email="htorres@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="nbarreto" password="nbarreto" confirm="nbarreto" fullname="Nancy Barreto" email="nbarreto@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="jvasquez" password="jvasquez" confirm="jvasquez" fullname="jorge Vasquez" email="jvasquez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="cojeda" password="cojeda" confirm="cojeda" fullname="Carmen Ojeda" email="cojeda@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="dmarquez" password="dmarquez" confirm="dmarquez" fullname="Daniel Marquez" email="dmarquez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="mleon" password="mleon" confirm="mleon" fullname="Martha Leon" email="mleon@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="rrodriguez" password="rrodriguez" confirm="rrodriguez" fullname="Rosamary Rodriguez" email="rrodriguez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="lbach" password="lbach" confirm="lbach" fullname="Liliana Bach" email="lbach@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="rgranados" password="rgranados" confirm="rgranados" fullname="Raul Granados" email="rgranados@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="jbetancourt" password="jbetancourt" confirm="jbetancourt" fullname="Jose Betancourt" email="jbetancourt@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="aimata" password="aimata" confirm="aimata" fullname="Ailin Mata" email="aimata@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="aamarel" password="aamarel" confirm="aamarel" fullname="Anabel Amaral" email="aamarel@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="jpepper" password="jpepper" confirm="jpepper" fullname="Jefferson Pepper" email="jpepper@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="rgranados" password="rgranados" confirm="rgranados" fullname="Raul Granados" email="rgranados@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="mvera" password="mvera" confirm="mvera" fullname="Mercedes Vera" email="mvera@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="edgonzalez" password="edgonzalez" confirm="edgonzalez" fullname="Edwin Gonzalez" email="edgonzalez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="etrujillo" password="etrujillo" confirm="etrujillo" fullname="Eduardo Trujillo" email="etrujillo@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="rgranados" password="rgranados" confirm="rgranados" fullname="Raul Granados" email="rgranados@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPLOG_Usuarios"/>
+<jira:CreateUser username="jgomez" password="jgomez" confirm="jgomez" fullname="Jose M Gomez" email="jgomez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="jpalma" password="jpalma" confirm="jpalma" fullname="Jerry Palma" email="jpalma@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="tcorredor" password="tcorredor" confirm="tcorredor" fullname="Tomas Corredor" email="tcorredor@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="mcolmenares" password="mcolmenares" confirm="mcolmenares" fullname="Maria Victoria Colmenares" email="mcolmenares@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="mleon" password="mleon" confirm="mleon" fullname="Martha León" email="mleon@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="hdiaz" password="hdiaz" confirm="hdiaz" fullname="Hernan Díaz" email="hdiaz@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="jpereira" password="jpereira" confirm="jpereira" fullname="Jorge Pereira" email="jpereira@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="rrodriguez" password="rrodriguez" confirm="rrodriguez" fullname="Rosa Mary Rodríguez" email="rrodriguez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="jviloria" password="jviloria" confirm="jviloria" fullname="Jemmy Viloria" email="jviloria@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="cojeda" password="cojeda" confirm="cojeda" fullname="Carmen Ojeda" email="cojeda@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="mmonterola" password="mmonterola" confirm="mmonterola" fullname="Moraima Monterola" email="mmonterola@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="apacheco" password="apacheco" confirm="apacheco" fullname="Anthony Pacheco" email="apacheco@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="cguilarte" password="cguilarte" confirm="cguilarte" fullname="Carlos Guilarte" email="cguilarte@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="jtrujillo" password="jtrujillo" confirm="jtrujillo" fullname="Jorge Trujillo" email="jtrujillo@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="ryabbour" password="ryabbour" confirm="ryabbour" fullname="Rimma Yabbour" email="ryabbour@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="zuzcategui" password="zuzcategui" confirm="zuzcategui" fullname="Zoraida Uzcategui" email="zuzcategui@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="rmoreno" password="rmoreno" confirm="rmoreno" fullname="Rosa Moreno" email="rmoreno@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="imorales" password="imorales" confirm="imorales" fullname="Igor Morales" email="imorales@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="gacosta" password="gacosta" confirm="gacosta" fullname="Grecia Acosta" email="gacosta@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="emontilla" password="emontilla" confirm="emontilla" fullname="Edimar Montilla" email="emontilla@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="vabreu" password="vabreu" confirm="vabreu" fullname="Veronica Sanchez" email="vabreu@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPFI_Usuarios"/>
+<jira:CreateUser username="rrodriguez" password="rrodriguez" confirm="rrodriguez" fullname="Rosa Mary Rodriguez" email="rrodriguez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="mleon" password="mleon" confirm="mleon" fullname="Martha Leon" email="mleon@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="hdiaz" password="hdiaz" confirm="hdiaz" fullname="Hernan Diaz" email="hdiaz@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jviloria" password="jviloria" confirm="jviloria" fullname="Jemmy Viloria" email="jviloria@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="lescobar" password="lescobar" confirm="lescobar" fullname="Luis Escobar" email="lescobar@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="dperez" password="dperez" confirm="dperez" fullname="Daniel Perez" email="dperez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="mmonterola" password="mmonterola" confirm="mmonterola" fullname="Moraima Monterola" email="mmonterola@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="apacheco" password="apacheco" confirm="apacheco" fullname="Anthony Pacheco" email="apacheco@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jcox" password="jcox" confirm="jcox" fullname="Jenifer Cox" email="jcox@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="malvarez" password="malvarez" confirm="malvarez" fullname="Mariana Alvarez" email="malvarez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jpadron" password="jpadron" confirm="jpadron" fullname="Jose Padron" email="jpadron@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="iconde" password="iconde" confirm="iconde" fullname="Ivonne Conde" email="iconde@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="mcarames" password="mcarames" confirm="mcarames" fullname="Maria de los Angeles Carames" email="mcarames@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="gmuñoz" password="gmuñoz" confirm="gmuñoz" fullname="Gladys Muñoz" email="gmuñoz@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="ytorres" password="ytorres" confirm="ytorres" fullname="Yannette Torres" email="ytorres@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="ysalazar" password="ysalazar" confirm="ysalazar" fullname="Yelitza Salazar" email="ysalazar@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="fmanrique" password="fmanrique" confirm="fmanrique" fullname="Francys Manriquez" email="fmanrique@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="hcalzadilla" password="hcalzadilla" confirm="hcalzadilla" fullname="Herminia Calzadilla" email="hcalzadilla@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="imorales" password="imorales" confirm="imorales" fullname="Igor Morales" email="imorales@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jgomez" password="jgomez" confirm="jgomez" fullname="Jose Manuel Gomez" email="jgomez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jpalma" password="jpalma" confirm="jpalma" fullname="Jerry Palma" email="jpalma@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="ipulido" password="ipulido" confirm="ipulido" fullname="Iray Pulido" email="ipulido@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="mcolmenares" password="mcolmenares" confirm="mcolmenares" fullname="Maria Victoria Colmenares" email="mcolmenares@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jtrujillo" password="jtrujillo" confirm="jtrujillo" fullname="Jorge Trujillo" email="jtrujillo@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="cguilarte" password="cguilarte" confirm="cguilarte" fullname="Carlos Guilarte" email="cguilarte@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="cvmoreno" password="cvmoreno" confirm="cvmoreno" fullname="Vicente Moreno" email="cvmoreno@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="cfigueroa" password="cfigueroa" confirm="cfigueroa" fullname="Celiana Figueroa" email="cfigueroa@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="iarellano" password="iarellano" confirm="iarellano" fullname="Ibrahim Arellano" email="iarellano@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="aamaral" password="aamaral" confirm="aamaral" fullname="Anabel Amaral" email="aamaral@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="mgalindo" password="mgalindo" confirm="mgalindo" fullname="Miguel Galindo" email="mgalindo@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="nbarreto" password="nbarreto" confirm="nbarreto" fullname="Nancy Barreto" email="nbarreto@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="acharris" password="acharris" confirm="acharris" fullname="Ada Charris" email="acharris@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="ynieto" password="ynieto" confirm="ynieto" fullname="Yorbey Nieto" email="ynieto@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="dcampos" password="dcampos" confirm="dcampos" fullname="Daniel Campos" email="dcampos@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jdias" password="jdias" confirm="jdias" fullname="Jose Dias" email="jdias@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="dpineda" password="dpineda" confirm="dpineda" fullname="Diego Pineda" email="dpineda@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jvasquez" password="jvasquez" confirm="jvasquez" fullname="Jorge Vasquez" email="jvasquez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="jleal" password="jleal" confirm="jleal" fullname="Jeeneth Leal" email="jleal@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="gsimancas" password="gsimancas" confirm="gsimancas" fullname="Giovanny Simancas" email="gsimancas@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="mesalazar" password="mesalazar" confirm="mesalazar" fullname="Magaly Salazar" email="mesalazar@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="edgonzalez" password="edgonzalez" confirm="edgonzalez" fullname="Edwin Gonzalez" email="edgonzalez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="mpupo" password="mpupo" confirm="mpupo" fullname="Monica Pupo" email="mpupo@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="dvasquez" password="dvasquez" confirm="dvasquez" fullname="Dayana Vasquez" email="dvasquez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="pfaro" password="pfaro" confirm="pfaro" fullname="Patricia Faro" email="pfaro@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="risern" password="risern" confirm="risern" fullname="Rosa Isern" email="risern@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="lmontesinos" password="lmontesinos" confirm="lmontesinos" fullname="Luis Montesinos" email="lmontesinos@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<jira:CreateUser username="esgonzalez" password="esgonzalez" confirm="esgonzalez" fullname="Esmeralda Gonzalez" email="esgonzalez@eluniversal.com"/>
+<jira:AddUserToGroup group-name="SAPSD_Usuarios"/>
+<JiraJelly xmlns:jira="jelly:com.atlassian.jira.jelly.JiraTagLib">

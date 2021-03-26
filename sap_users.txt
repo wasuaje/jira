@@ -1,0 +1,127 @@
+Carolina Rodriguez|crodriguez|SAPHR_Usuarios
+Emerson Vergara|evergara|SAPHR_Usuarios
+Luisana Arteaga|larteaga|SAPHR_Usuarios
+Carlos Chacon|cchacon|SAPHR_Usuarios
+Luz carolina garcia|lcgarcia|SAPHR_Usuarios
+Alicia Rivero|arivero|SAPHR_Usuarios
+Lisaris Omaña|lomaña|SAPHR_Usuarios
+Yelitza Ruiz|yruiz|SAPHR_Usuarios
+Fatima Soares|fsoares|SAPHR_Usuarios
+Navarina Castro|ncastro|SAPHR_Usuarios
+Luisa Feijoo|lfeijoo|SAPHR_Usuarios
+Elena Gil|egil|SAPHR_Usuarios
+Alis Nieto|Anieto|SAPHR_Usuarios
+Isabel Rodriguez|irodriguez|SAPHR_Usuarios
+Carlos Parra|cparra|SAPHR_Usuarios
+Vanessa Pinzón|vpinzon|SAPHR_Usuarios
+Pedro Peña|ppena|SAPHR_Usuarios"
+Yusmil Meza|ymeza|SAPHR_Usuarios
+Ana María Fernández|amfernandez|SAPHR_Usuarios
+EriKa Montiel|emontiel|SAPHR_Usuarios
+Lucidio Morales|lmorales|SAPHR_Usuarios
+Cenaida Silva|csilva|SAPHR_Usuarios
+Maria Cristina Valdes|mvaldes|SAPLOG_Usuarios
+Maximiliano Jardin|mjardin|SAPLOG_Usuarios
+Tulio Marcano|tmarcano|SAPLOG_Usuarios
+Isabel Urbaneja|iurbaneja|SAPLOG_Usuarios
+Pilar Ventura|pventura|SAPLOG_Usuarios
+Jonathan Tejada|jtejada|SAPLOG_Usuarios
+Gabriel Bejarano|gbejarano|SAPLOG_Usuarios
+Almacen Produccion|emorffi|SAPLOG_Usuarios
+Almacen Proveeduria|jliendo|SAPLOG_Usuarios
+Almacen Guatire|ctelleria|SAPLOG_Usuarios
+Almacen y Despacho|almacenydespacho|SAPLOG_Usuarios
+Jose Diaz|jdiaz|SAPLOG_Usuarios
+Miguel Galindo|mgalindo|SAPLOG_Usuarios
+Anabel Amaral|aamaral|SAPLOG_Usuarios
+Liliana Bach|lbach|SAPLOG_Usuarios
+Gloria Mayorga|Gmayorga|SAPLOG_Usuarios
+Katiuska Martinez|Kmartinez|SAPLOG_Usuarios
+Norka Fernandez |Nfernandez |SAPLOG_Usuarios
+Dianis González|Dgonzález|SAPLOG_Usuarios
+harrison Torres|htorres|SAPLOG_Usuarios
+Nancy Barreto|nbarreto|SAPLOG_Usuarios
+jorge Vasquez|jvasquez|SAPLOG_Usuarios
+Carmen Ojeda|cojeda|SAPLOG_Usuarios
+Daniel Marquez|dmarquez|SAPLOG_Usuarios
+Martha Leon|mleon|SAPLOG_Usuarios
+Rosamary Rodriguez|rrodriguez|SAPLOG_Usuarios
+Liliana Bach|lbach|SAPLOG_Usuarios
+Raul Granados|rgranados|SAPLOG_Usuarios
+Jose Betancourt|jbetancourt|SAPLOG_Usuarios
+Ailin Mata|aimata|SAPLOG_Usuarios
+Anabel Amaral|aamarel|SAPLOG_Usuarios
+Jefferson Pepper|jpepper|SAPLOG_Usuarios
+Raul Granados|rgranados|SAPLOG_Usuarios
+Mercedes Vera|mvera|SAPLOG_Usuarios
+Edwin Gonzalez|edgonzalez|SAPLOG_Usuarios
+Eduardo Trujillo|etrujillo|SAPLOG_Usuarios
+Raul Granados|rgranados|SAPLOG_Usuarios
+Jose M Gomez|jgomez|SAPFI_Usuarios
+Jerry Palma|jpalma|SAPFI_Usuarios
+Tomas Corredor|tcorredor|SAPFI_Usuarios
+Maria Victoria Colmenares|mcolmenares|SAPFI_Usuarios
+Martha León|mleon|SAPFI_Usuarios
+Hernan Díaz|hdiaz|SAPFI_Usuarios
+Jorge Pereira|jpereira|SAPFI_Usuarios
+Rosa Mary Rodríguez|rrodriguez|SAPFI_Usuarios
+Jemmy Viloria|jviloria|SAPFI_Usuarios
+Carmen Ojeda|cojeda|SAPFI_Usuarios
+Moraima Monterola|mmonterola|SAPFI_Usuarios
+Anthony Pacheco|apacheco|SAPFI_Usuarios
+Carlos Guilarte|cguilarte|SAPFI_Usuarios
+Jorge Trujillo|jtrujillo|SAPFI_Usuarios
+Rimma Yabbour|ryabbour|SAPFI_Usuarios
+Zoraida Uzcategui|zuzcategui|SAPFI_Usuarios
+Rosa Moreno|rmoreno|SAPFI_Usuarios
+Igor Morales|imorales|SAPFI_Usuarios
+Grecia Acosta|gacosta|SAPFI_Usuarios
+Edimar Montilla|emontilla|SAPFI_Usuarios
+Veronica Sanchez|vabreu|SAPFI_Usuarios
+Rosa Mary Rodriguez|rrodriguez|SAPSD_Usuarios
+Martha Leon|mleon|SAPSD_Usuarios
+Hernan Diaz|hdiaz|SAPSD_Usuarios
+Jemmy Viloria|jviloria|SAPSD_Usuarios
+Luis Escobar|lescobar|SAPSD_Usuarios
+Daniel Perez|dperez|SAPSD_Usuarios
+Moraima Monterola|mmonterola|SAPSD_Usuarios
+Anthony Pacheco|apacheco|SAPSD_Usuarios
+Jenifer Cox|jcox|SAPSD_Usuarios
+Mariana Alvarez|malvarez|SAPSD_Usuarios
+Jose Padron|jpadron|SAPSD_Usuarios
+Ivonne Conde|iconde|SAPSD_Usuarios
+Maria de los Angeles Carames|mcarames|SAPSD_Usuarios
+Gladys Muñoz|gmuñoz|SAPSD_Usuarios
+Yannette Torres|ytorres|SAPSD_Usuarios
+Yelitza Salazar|ysalazar|SAPSD_Usuarios
+Francys Manriquez|fmanrique|SAPSD_Usuarios
+Herminia Calzadilla|hcalzadilla|SAPSD_Usuarios
+Igor Morales|imorales|SAPSD_Usuarios
+Jose Manuel Gomez|jgomez|SAPSD_Usuarios
+Jerry Palma|jpalma|SAPSD_Usuarios
+Iray Pulido|ipulido|SAPSD_Usuarios
+Maria Victoria Colmenares|mcolmenares|SAPSD_Usuarios
+Jorge Trujillo|jtrujillo|SAPSD_Usuarios
+Carlos Guilarte|cguilarte|SAPSD_Usuarios
+Vicente Moreno|cvmoreno|SAPSD_Usuarios
+Celiana Figueroa|cfigueroa|SAPSD_Usuarios
+Ibrahim Arellano|iarellano|SAPSD_Usuarios
+Anabel Amaral|aamaral|SAPSD_Usuarios
+Miguel Galindo|mgalindo|SAPSD_Usuarios
+Nancy Barreto|nbarreto|SAPSD_Usuarios
+Ada Charris|acharris|SAPSD_Usuarios
+Yorbey Nieto|ynieto|SAPSD_Usuarios
+Daniel Campos|dcampos|SAPSD_Usuarios
+Jose Dias|jdias|SAPSD_Usuarios
+Diego Pineda|dpineda|SAPSD_Usuarios
+Jorge Vasquez|jvasquez|SAPSD_Usuarios
+Jeeneth Leal|jleal|SAPSD_Usuarios
+Giovanny Simancas|gsimancas|SAPSD_Usuarios
+Magaly Salazar|mesalazar|SAPSD_Usuarios
+Edwin Gonzalez|edgonzalez|SAPSD_Usuarios
+Monica Pupo|mpupo|SAPSD_Usuarios
+Dayana Vasquez|dvasquez|SAPSD_Usuarios
+Patricia Faro|pfaro|SAPSD_Usuarios
+Rosa Isern|risern|SAPSD_Usuarios
+Luis Montesinos|lmontesinos|SAPSD_Usuarios
+Esmeralda Gonzalez|esgonzalez|SAPSD_Usuarios

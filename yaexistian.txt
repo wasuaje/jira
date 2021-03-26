@@ -1,0 +1,231 @@
+<JiraJelly xmlns:jira='jelly:com.atlassian.jira.jelly.enterprise.JiraTagLib'>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=iconde)(username=iconde)(confirm=iconde)(email=iconde@eluniversal.com)(fullname=Ivonne Conde))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=jpadron)(username=jpadron)(confirm=jpadron)(email=jpadron@eluniversal.com)(fullname=José Padrón))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=dangulo)(username=dangulo)(confirm=dangulo)(email=dangulo@eluniversal.com)(fullname=Dian Angulo))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=mcarames)(username=mcarames)(confirm=mcarames)(email=mcarames@eluniversal.com)(fullname=María de los Ángeles Carames))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=ytorres)(username=ytorres)(confirm=ytorres)(email=ytorres@eluniversal.com)(fullname=Yaneth Torres))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=mcastaneda)(username=mcastaneda)(confirm=mcastaneda)(email=mcastaneda@eluniversal.com)(fullname=Myriam Castañeda))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=sdavila)(username=sdavila)(confirm=sdavila)(email=sdavila@eluniversal.com)(fullname=Sobeida Davila))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=avasquez)(username=avasquez)(confirm=avasquez)(email=avasquez@eluniversal.com)(fullname=Adela Vásquez))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=meperez)(username=meperez)(confirm=meperez)(email=meperez@eluniversal.com)(fullname=Martha Pérez))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='EditUserGroups'>
+    <TagContents>(AddUserToGroup(group-name=CRM Usuarios))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>Tag AddUserToGroup requires (jelly.username, jelly.new.username, jelly.group.name) variables to be set in the Context</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=rbocaranda)(username=rbocaranda)(confirm=rbocaranda)(email=rbocaranda@eluniversal.com)(fullname=Rafael Bocaranda))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=kmanzol)(username=kmanzol)(confirm=kmanzol)(email=kmanzol@eluniversal.com)(fullname=Keyla Manzol))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=ivarela)(username=ivarela)(confirm=ivarela)(email=ivarela@eluniversal.com)(fullname=Ivan Varela))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=aluna)(username=aluna)(confirm=aluna)(email=aluna@eluniversal.com)(fullname=Alejandro Luna))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=lblanco)(username=lblanco)(confirm=lblanco)(email=lblanco@eluniversal.com)(fullname=Linda Blanco))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=brmedina)(username=brmedina)(confirm=brmedina)(email=brmedina@eluniversal.com)(fullname=Belkys Medina))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=mescalante)(username=mescalante)(confirm=mescalante)(email=mescalante@eluniversal.com)(fullname=Mariluz Escalante))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=gfarias)(username=gfarias)(confirm=gfarias)(email=gfarias@eluniversal.com)(fullname=Gisela Farias))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=mgil)(username=mgil)(confirm=mgil)(email=mgil@eluniversal.com)(fullname=Mariela Gil))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=fmanrique)(username=fmanrique)(confirm=fmanrique)(email=fmanrique@eluniversal.com)(fullname=Francys Manrique))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=imorales)(username=imorales)(confirm=imorales)(email=imorales@eluniversal.com)(fullname=Igor Morales))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=mmaita)(username=mmaita)(confirm=mmaita)(email=mmaita@eluniversal.com)(fullname=Miguel Maita))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=jmaguerrevere)(username=jmaguerrevere)(confirm=jmaguerrevere)(email=jmaguerrevere@eluniversal.com)(fullname=Juan Aguerrevere))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+  <Error action='AddUser'>
+    <TagContents>(CreateUser(password=cogonzalez)(username=cogonzalez)(confirm=cogonzalez)(email=cogonzalez@eluniversal.com)(fullname=Coromoto González))</TagContents>
+    <ExecutedAs>user=wasuaje</ExecutedAs>
+    <ErrorMessage>
+Result=input
+Error for field &quot;username&quot; : Ya existe un usuario con este nombre de usuario.
+</ErrorMessage>
+  </Error>
+</JiraJelly> 
